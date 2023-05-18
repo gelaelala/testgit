@@ -1,1 +1,7 @@
 this is my first git file, dont mess with it !!! (practice lang i2 bhie)
+#to stage a file 
+git add <filename>
+#to commit a file
+git commit -m "message"
+#to list status
+git status
